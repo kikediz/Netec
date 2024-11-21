@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Completar Proyecto Final",
+        "description": "Desarrollar un sistema de gestión de tareas en Python.",
+        "due_date": "2023-12-01",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Preparar Presentación",
+        "description": "Preparar diapositivas y material para la presentación del proyecto.",
+        "due_date": "2023-12-05",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Revisar Correo Electrónico",
+        "description": "Revisar y responder correos electrónicos importantes.",
+        "due_date": "2023-11-25",
+        "completed": true
+    }
+]
